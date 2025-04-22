@@ -31,7 +31,7 @@ export EXECUTOR_MAX_L3_GAS_PRICE=150
 ```
 
 # ✅ Tahap 4 seting private key wallet
-ganti dulu pake private key mu
+**ganti dulu pake private key mu**
 ```
 export PRIVATE_KEY_LOCAL=EVM-PRIVATE-KEY && \
 export ENABLED_NETWORKS='l2rn,arbitrum-sepolia,base-sepolia,blast-sepolia,monad-testnet,optimism-sepolia,unichain-sepolia' && \
