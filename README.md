@@ -1,3 +1,12 @@
+# note isi minimal saldo 10 ETH di masing masing jaringan
+**bridge bridge sepolia  ke arb, opt, base dan uni sepolia bisa pake 
+https://testnets.relay.link/bridge/base-sepolia?fromChainId=11155111**
+**kalo Blast**
+sepolia to blast sepolia trasnfer ke 
+```
+0xc644cc19d2a9388b71dd1dede07cffc73237dca8
+```
+
 # ✅ Tahap 1 Install Prerequisites : 
 ```
 sudo apt update && sudo apt upgrade -y
